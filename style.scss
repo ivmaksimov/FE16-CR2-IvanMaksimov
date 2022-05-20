@@ -266,6 +266,10 @@ body{
 
 
 // Recipe of the month
+#recipe{
+  text-align: center;
+}
+
 .recipe_of_month {
   display: flex;
   justify-content: space-evenly;

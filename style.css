@@ -349,6 +349,10 @@ body .container .footer .ft-third p {
   }
 }
 
+#recipe {
+  text-align: center;
+}
+
 .recipe_of_month {
   display: -webkit-box;
   display: -ms-flexbox;
